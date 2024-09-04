@@ -6,9 +6,9 @@ You can read more about the competition here: https://www.kaggle.com/competition
 
 ## Requirements
 Python (version 3.12.1) with the following libraries:
-    - pandas
-    - numpy
-    - seaborn
-    - matplotlib
-    - scipy
-    - scikit-learn
+- pandas
+- numpy
+- seaborn
+- matplotlib
+- scipy
+- scikit-learn
